@@ -2,7 +2,11 @@
 #include<conio.h>
 void main()
 {
+  a=10;
+<<<<<<< HEAD
  printf("Hello World!...");
- printf("OPS Class");
+=======
+ printf("Hello BCA-B!...");
+>>>>>>> cc93043d2afeca81dcb8a02c67223ecc064b5f1c
  getch();
 }
