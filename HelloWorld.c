@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-  a=10;
+  a=22;
 <<<<<<< HEAD
  printf("Hello World!...");
 =======
